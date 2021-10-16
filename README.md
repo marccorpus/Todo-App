@@ -1,6 +1,16 @@
 # todo-app
 
-## Project setup
+## Live Demo
+[https://jolly-ptolemy-57162c.netlify.app/](https://jolly-ptolemy-57162c.netlify.app/)
+
+### Tech Stack
+```
+Vue
+Bootstrap-Vue
+Vuex
+```
+
+### Project setup
 ```
 npm install
 ```
